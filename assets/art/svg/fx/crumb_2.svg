@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40">
+<!-- fx/crumb_2 | Cut the Rope web, studio-made | viewBox = 10x10 logical; pivot 0.500,0.500 | candy crumbs when Om Nom eats: 6-10 pcs, 60-140 logical/s up and sideways + gravity, 500 ms -->
+<defs></defs>
+<path d="M 10.00 12.00 L 26.00 8.00 L 32.00 22.00 L 16.00 32.00 Z" fill="#FFF4D8" stroke="#5E1A0C" stroke-width="3.5" stroke-linejoin="round"/><circle cx="16" cy="15" r="3" fill="#FFFFFF" opacity="0.7"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40">
+<!-- ui/tap_ring | Cut the Rope web, studio-made | viewBox = 40x40 logical; pivot 0.500,0.500 | tap ring of the tutorial hand: white ring r16 (stroke 3) with a faint warm dark edge; spawn at the hotspot, scale 0.35 -> 1.25, alpha 0.95 -> 0 (anim.md 'Рука-подсказка') -->
+<defs></defs>
+<circle cx="20" cy="20" r="15" fill="#FFFFFF" fill-opacity="0.16"/><circle cx="20" cy="20" r="16" fill="none" stroke="#3B2410" stroke-opacity="0.32" stroke-width="5"/><circle cx="20" cy="20" r="16" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+</svg>

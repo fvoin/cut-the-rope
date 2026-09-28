@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+<!-- ui/btn_round | Cut the Rope web, studio-made | viewBox = 48x48 logical; pivot 0.500,0.500 | empty round cream button base (for any extra icon) -->
+<defs><radialGradient id="rb_g" cx="0.38" cy="0.3" r="0.8"><stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#FFF6E6"/><stop offset="1" stop-color="#F0D6AE"/></radialGradient><filter id="rb_s" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4"/></filter></defs>
+<circle cx="98" cy="104" r="80" fill="#2B1605" opacity="0.3" filter="url(#rb_s)"/><circle cx="96" cy="96" r="80" fill="url(#rb_g)" stroke="#6E4422" stroke-width="10"/><path d="M 44 76 A 56 56 0 0 1 116 42" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" opacity="0.8"/>
+</svg>

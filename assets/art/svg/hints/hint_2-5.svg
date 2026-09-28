@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="100 108 124 8" width="124" height="8">
+<!-- hints/hint_2-5 | Cut the Rope web, studio-made | viewBox = 124x8 logical; pivot 0.000,0.000 | rail: double arrow along the rail (x 104..220; rail stop x2 = 224); the animated hand drags the pin -->
+<defs></defs>
+<g opacity="0.92"><path d="M 104 112 L 220 112" fill="none" stroke="#F7F3DE" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M 212.1 116.3 L 220 112 L 212.1 107.7" fill="none" stroke="#F7F3DE" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M 111.9 107.7 L 104 112 L 111.9 116.3" fill="none" stroke="#F7F3DE" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>

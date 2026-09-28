@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+<!-- mech/gravity_base_down | Cut the Rope web, studio-made | viewBox = 48x48 logical; pivot 0.500,0.500 | gravity button base, gravity down colour; crossfade bases 0.2 s on toggle -->
+<defs><radialGradient id="gv_down" cx="0.38" cy="0.3" r="0.8"><stop offset="0" stop-color="#B79CF5"/><stop offset="0.55" stop-color="#7F5BD9"/><stop offset="1" stop-color="#4E33A3"/></radialGradient><radialGradient id="gv_ring" cx="0.38" cy="0.3" r="0.8"><stop offset="0" stop-color="#F6FBFF"/><stop offset="0.6" stop-color="#CFE0EE"/><stop offset="1" stop-color="#7291AB"/></radialGradient></defs>
+<circle cx="96" cy="96" r="82" fill="url(#gv_ring)" stroke="#2E4A66" stroke-width="6"/><circle cx="148.3" cy="148.3" r="4" fill="#7291AB"/><circle cx="43.7" cy="148.3" r="4" fill="#7291AB"/><circle cx="43.7" cy="43.7" r="4" fill="#7291AB"/><circle cx="148.3" cy="43.7" r="4" fill="#7291AB"/><circle cx="96" cy="96" r="64" fill="url(#gv_down)" stroke="#2A1B5C" stroke-width="5"/><ellipse cx="72" cy="66" rx="20" ry="10" transform="rotate(-35 72 66)" fill="#FFFFFF" opacity="0.45"/>
+</svg>

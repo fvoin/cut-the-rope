@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 210" width="240" height="210">
+<!-- Om Nom rig part "mouth_chew" | Cut the Rope web, studio-made | viewBox shared by all parts -->
+<defs><linearGradient id="mch_t" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="0.65" stop-color="#FFFFFF"/><stop offset="1" stop-color="#DCE4EA"/></linearGradient><filter id="mch_b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter></defs>
+<g transform="translate(20 0)">
+<ellipse cx="40" cy="134" rx="15" ry="12" fill="#FFFFFF" opacity="0.22" filter="url(#mch_b)"/><ellipse cx="160" cy="134" rx="15" ry="12" fill="#FFFFFF" opacity="0.22" filter="url(#mch_b)"/><path d="M 104 137.5 L 117 136.5 L 111.5 149 Z" fill="url(#mch_t)" stroke="#22400E" stroke-width="3.6" stroke-linejoin="round"/><path d="M 58 132 C 68 124 80 142 92 135 C 102 129 110 142 122 135 C 132 128 138 134 142 132" fill="none" stroke="#22400E" stroke-width="5.0" stroke-linecap="round" stroke-linejoin="round" /><path d="M 30 118 C 22 127 23 141 33 147" fill="none" stroke="#22400E" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round" /><path d="M 170 118 C 178 127 177 141 167 147" fill="none" stroke="#22400E" stroke-width="4.0" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+</svg>

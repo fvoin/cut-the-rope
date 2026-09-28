@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 210" width="240" height="210">
+<!-- Om Nom rig part "eye_r" | Cut the Rope web, studio-made | viewBox shared by all parts -->
+<defs><radialGradient id="eye_r_g" cx="0.42" cy="0.36" r="0.66"><stop offset="0" stop-color="#FFFFFF"/><stop offset="0.72" stop-color="#FFFFFF"/><stop offset="1" stop-color="#D3DEE3"/></radialGradient></defs>
+<g transform="translate(20 0)">
+<ellipse cx="132" cy="71" rx="37" ry="39" fill="url(#eye_r_g)" stroke="#1C2B10" stroke-width="4.5"/>
+</g>
+</svg>

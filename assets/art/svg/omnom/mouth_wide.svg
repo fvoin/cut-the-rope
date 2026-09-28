@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 210" width="240" height="210">
+<!-- Om Nom rig part "mouth_wide" | Cut the Rope web, studio-made | viewBox shared by all parts -->
+<defs><radialGradient id="mw_c" cx="0.5" cy="0.3" r="0.8"><stop offset="0" stop-color="#8A1C16"/><stop offset="1" stop-color="#4A0A08"/></radialGradient><clipPath id="mw_clip"><path d="M 32 112 C 66 121 134 121 168 112 C 176 146 148 173 100 173 C 52 173 24 146 32 112 Z"/></clipPath><filter id="mw_b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter></defs>
+<g transform="translate(20 0)">
+<path d="M 32 112 C 66 121 134 121 168 112 C 176 146 148 173 100 173 C 52 173 24 146 32 112 Z" fill="url(#mw_c)"/><g clip-path="url(#mw_clip)"><ellipse cx="100" cy="120" rx="74" ry="12" fill="#4A0A08" opacity="0.75" filter="url(#mw_b)"/></g>
+</g>
+</svg>

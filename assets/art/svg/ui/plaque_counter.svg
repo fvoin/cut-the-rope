@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 416 160" width="416" height="160">
+<!-- ui/plaque_counter | Cut the Rope web, studio-made | viewBox = 104x40 logical; pivot 0.500,0.500 | dark counter plaque 96x32: icon_star at left (x -30) + text Patrick Hand 20 white ('12', '7/30', '19/60') -->
+<defs><linearGradient id="pq_g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7A5230"/><stop offset="1" stop-color="#5A3A1C"/></linearGradient><filter id="pq_s" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4"/></filter></defs>
+<rect x="18" y="19" width="384" height="128" rx="64.0" fill="#2B1605" opacity="0.3" filter="url(#pq_s)"/><rect x="16" y="12" width="384" height="128" rx="64.0" fill="url(#pq_g)" stroke="#3B2410" stroke-width="7"/><rect x="26" y="19" width="364" height="114" rx="57.0" fill="none" stroke="#FFFFFF" stroke-width="3" opacity="0.18"/>
+</svg>

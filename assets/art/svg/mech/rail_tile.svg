@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 48" width="32" height="48">
+<!-- mech/rail_tile | Cut the Rope web, studio-made | viewBox = 8x12 logical; pivot 0.500,0.500 | rail slot tile, seamless along x (n = round(len/8), stretch to len/n) -->
+<defs><linearGradient id="rl_g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F6FBFF"/><stop offset="1" stop-color="#A3BCD1"/></linearGradient><linearGradient id="rl_s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1E2A36"/><stop offset="1" stop-color="#3B4E62"/></linearGradient></defs>
+<g transform="translate(0.00 0) scale(1.0000 1)"><rect x="-1" y="6" width="34" height="36" fill="url(#rl_g)"/><rect x="-1" y="17" width="34" height="14" fill="url(#rl_s)"/><path d="M -1 6 L 33 6 M -1 42 L 33 42" stroke="#2E4A66" stroke-width="4.5"/><path d="M -1 17 L 33 17 M -1 31 L 33 31" stroke="#2E4A66" stroke-width="2.5"/><path d="M -1 11 L 33 11" stroke="#FFFFFF" stroke-width="2.5" opacity="0.7"/></g>
+</svg>

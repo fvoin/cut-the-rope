@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+<!-- candy_gloss | Cut the Rope web, studio-made | candy layer 2/2: rim shade + highlights, NEVER rotates (light from the top-left); same canvas, pivot and scale as candy.svg; draw over candy_body; scale/alpha together with the body -->
+<defs><radialGradient id="cg_shade" cx="0.36" cy="0.32" r="0.72"><stop offset="0.55" stop-color="#5E1A0C" stop-opacity="0"/><stop offset="1" stop-color="#5E1A0C" stop-opacity="0.45"/></radialGradient><filter id="cg_b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="1.6"/></filter></defs>
+<circle cx="50" cy="50" r="39.75" fill="url(#cg_shade)"/><circle cx="50" cy="50" r="38.5" fill="none" stroke="#FFFFFF" stroke-width="2" opacity="0.28"/><ellipse cx="34" cy="31" rx="13" ry="7.5" transform="rotate(-38 34 31)" fill="#FFFFFF" opacity="0.85" filter="url(#cg_b)"/><circle cx="64" cy="71" r="3.2" fill="#FFFFFF" opacity="0.55"/>
+</svg>

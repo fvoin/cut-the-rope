@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+<!-- ui/lock_shackle | Cut the Rope web, studio-made | viewBox = 48x48 logical; pivot 0.500,0.500 | unlock anim, shackle layer (same viewBox as lock_body): jerk x2, shackle lifts 8 and swings open around (128,100)=(0.667,0.521) -->
+<defs><linearGradient id="lk_b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#D5DAE2"/><stop offset="0.5" stop-color="#8A8F99"/><stop offset="1" stop-color="#5F6570"/></linearGradient><linearGradient id="lk_s" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F4F7FA"/><stop offset="1" stop-color="#8D949E"/></linearGradient></defs>
+<path d="M 64 100 L 64 70 A 32 32 0 0 1 128 70 L 128 100" fill="none" stroke="#2F333B" stroke-width="30" stroke-linecap="round"/><path d="M 64 100 L 64 70 A 32 32 0 0 1 128 70 L 128 100" fill="none" stroke="url(#lk_s)" stroke-width="18" stroke-linecap="round"/><path d="M 72 70 A 24 24 0 0 1 96 46" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" opacity="0.7"/>
+</svg>

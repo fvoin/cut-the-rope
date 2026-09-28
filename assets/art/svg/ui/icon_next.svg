@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+<!-- ui/icon_next | Cut the Rope web, studio-made | viewBox = 32x32 logical; pivot 0.500,0.500 | white icon with dark-red rim for the red pill buttons (32 logical canvas, glyph ~20): place at pill center x - 34 -->
+<defs></defs>
+<g transform="translate(96 96) scale(1.0) translate(-96 -96)"><path d="M 134 96 L 96 58 L 96 80 L 56 80 L 56 112 L 96 112 L 96 134 Z" fill="#5A140D" stroke="#5A140D" stroke-width="8" stroke-linejoin="round"/></g><g transform="translate(96 96) scale(0.86) translate(-96 -96)"><path d="M 134 96 L 96 58 L 96 80 L 56 80 L 56 112 L 96 112 L 96 134 Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="round"/></g>
+</svg>

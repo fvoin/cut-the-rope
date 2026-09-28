@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 210" width="240" height="210">
+<!-- Om Nom rig part "lid_r_happy" | Cut the Rope web, studio-made | viewBox shared by all parts -->
+<defs><linearGradient id="lid_r_happy_g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#BCE354"/><stop offset="1" stop-color="#8FC93A"/></linearGradient><clipPath id="lid_r_happy_c"><ellipse cx="132" cy="71" rx="37" ry="39"/></clipPath></defs>
+<g transform="translate(20 0)">
+<g clip-path="url(#lid_r_happy_c)"><path d="M 87 24 L 177 24 L 177 118 L 87 118 Z" fill="url(#lid_r_happy_g)"/><path d="M 102 83 Q 132 57 162 83" fill="none" stroke="#22400E" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" /></g><ellipse cx="132" cy="71" rx="37" ry="39" fill="none" stroke="#1C2B10" stroke-width="4.5"/>
+</g>
+</svg>

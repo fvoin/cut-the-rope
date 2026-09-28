@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="108 96 111 14" width="111" height="14">
+<!-- hints/hint_1-1 | Cut the Rope web, studio-made | viewBox = 111x14 logical; pivot 0.000,0.000 | swipe across the rope: dashed arrow over the rope (the animated hand ui/hand_* swipes along it, hints_gestures.json) -->
+<defs></defs>
+<g opacity="0.92"><path d="M 112 106 Q 160 100 215 106" fill="none" stroke="#4A2E17" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 5"/><path d="M 206.5 109.0 L 215 106 L 207.9 100.5" fill="none" stroke="#4A2E17" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>

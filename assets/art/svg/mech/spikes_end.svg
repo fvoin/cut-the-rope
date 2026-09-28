@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+<!-- mech/spikes_end | Cut the Rope web, studio-made | viewBox = 12x12 logical; pivot 0.500,0.500 | metal knob at both segment ends, centered on the endpoint, drawn over the tiles -->
+<defs><radialGradient id="sk_end" cx="0.38" cy="0.32" r="0.75"><stop offset="0" stop-color="#F6FBFF"/><stop offset="0.55" stop-color="#CFE0EE"/><stop offset="1" stop-color="#7291AB"/></radialGradient></defs>
+<circle cx="24" cy="24" r="20" fill="url(#sk_end)" stroke="#2E4A66" stroke-width="5"/><circle cx="24" cy="24" r="8" fill="#A3BCD1" stroke="#2E4A66" stroke-width="3"/><ellipse cx="17" cy="15" rx="6" ry="3.5" transform="rotate(-35 17 15)" fill="#FFFFFF" opacity="0.85"/>
+</svg>

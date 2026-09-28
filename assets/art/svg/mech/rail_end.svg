@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 48" width="32" height="48">
+<!-- mech/rail_end | Cut the Rope web, studio-made | viewBox = 8x12 logical; pivot 0.500,0.500 | rail stopper at each rail endpoint -->
+<defs><linearGradient id="rl_g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F6FBFF"/><stop offset="1" stop-color="#A3BCD1"/></linearGradient><linearGradient id="rl_s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1E2A36"/><stop offset="1" stop-color="#3B4E62"/></linearGradient></defs>
+<rect x="2" y="0" width="28" height="48" rx="9" fill="url(#rl_g)" stroke="#2E4A66" stroke-width="5"/><circle cx="16" cy="24" r="6" fill="#A3BCD1" stroke="#2E4A66" stroke-width="3"/><path d="M 9 7 L 9 18" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+</svg>

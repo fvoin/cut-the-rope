@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 64" width="80" height="64">
+<!-- fx/dust | Cut the Rope web, studio-made | viewBox = 20x16 logical; pivot 0.500,0.500 | dust puff (spider lands, box unlock, lock falls): alpha 0.8->0, scale 0.6->1.4, 400 ms -->
+<defs><radialGradient id="ds_g" cx="0.4" cy="0.3" r="0.9"><stop offset="0" stop-color="#FFF3DC"/><stop offset="0.6" stop-color="#E7C593"/><stop offset="1" stop-color="#B98A55"/></radialGradient></defs>
+<circle cx="22" cy="40" r="16" fill="url(#ds_g)"/><circle cx="40" cy="30" r="20" fill="url(#ds_g)"/><circle cx="58" cy="40" r="16" fill="url(#ds_g)"/><circle cx="40" cy="46" r="14" fill="url(#ds_g)"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 210" width="240" height="210">
+<!-- Om Nom rig part "tongue" | Cut the Rope web, studio-made | viewBox shared by all parts -->
+<defs><linearGradient id="tg_g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF7A62"/><stop offset="0.45" stop-color="#E8392C"/><stop offset="1" stop-color="#B3221A"/></linearGradient><clipPath id="tg_clip"><path d="M 32 112 C 66 121 134 121 168 112 C 176 146 148 173 100 173 C 52 173 24 146 32 112 Z"/></clipPath></defs>
+<g transform="translate(20 0)">
+<g clip-path="url(#tg_clip)"><path d="M 44 176 C 46 150 74 139 100 142 C 126 139 154 150 156 176 Z" fill="url(#tg_g)" stroke="#B3221A" stroke-width="2"/><path d="M 100 147 C 99 157 99 165 100 174" fill="none" stroke="#B3221A" stroke-width="3" stroke-linecap="round" opacity="0.8"/><ellipse cx="76" cy="153" rx="11" ry="4.5" transform="rotate(-16 76 153)" fill="#FFFFFF" opacity="0.4"/><ellipse cx="124" cy="153" rx="7" ry="3" transform="rotate(16 124 153)" fill="#FFFFFF" opacity="0.22"/></g>
+</g>
+</svg>

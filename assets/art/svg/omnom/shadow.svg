@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 210" width="240" height="210">
+<!-- Om Nom rig part "shadow" | Cut the Rope web, studio-made | viewBox shared by all parts -->
+<defs><filter id="sh_b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3.5"/></filter></defs>
+<g transform="translate(20 0)">
+<ellipse cx="100" cy="191" rx="80" ry="8" fill="#000000" opacity="0.32" filter="url(#sh_b)"/>
+</g>
+</svg>

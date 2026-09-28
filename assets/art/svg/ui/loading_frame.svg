@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 832 88" width="832" height="88">
+<!-- ui/loading_frame | Cut the Rope web, studio-made | viewBox = 208x22 logical; pivot 0.500,0.500 | loading bar groove 200x14: fill from the left with rope_segment tiles (4 thick) clipped to progress; candy.svg (20) rides at the end -->
+<defs><linearGradient id="lf_g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7A5230"/><stop offset="1" stop-color="#5A3A1C"/></linearGradient><filter id="lf_s" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4"/></filter></defs>
+<rect x="18" y="19" width="800" height="56" rx="28.0" fill="#2B1605" opacity="0.3" filter="url(#lf_s)"/><rect x="16" y="12" width="800" height="56" rx="28.0" fill="url(#lf_g)" stroke="#3B2410" stroke-width="7"/><rect x="26" y="19" width="780" height="42" rx="21.0" fill="none" stroke="#FFFFFF" stroke-width="3" opacity="0.18"/>
+</svg>
